@@ -1,0 +1,8 @@
+site_name: Documentación holamundo_pyside6
+site_url: https://<usuario>.github.io/holamundo-pyside6/
+docs_dir: 'docs_src'
+site_dir: 'docs'
+nav:
+   - Inicio: README.md
+   - About: ABOUT.md
+theme: readthedocs
